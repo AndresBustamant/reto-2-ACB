@@ -16,7 +16,7 @@ a continuación se puede evidenciar el procedimiento de desarrollo del reto:
 
 2. luego de guardar el code, se abre en las distintas herramientas para su visualización
 
-   2.1 Git bash: para visualizar el codigo en Git, primero ubicamos el code guardado con anterioridad, despues de ubicarlo lo selecionamos con click derecho + shift para elegir la opcion de abrir con Git Bash y posteriormente se referencia el nombre del documento donde esta el code.
+   2.1 Git bash: para visualizar el codigo en Git, primero ubicamos el code guardado con anterioridad, despues de ubicarlo lo selecionamos con click derecho + shift para elegir la opcion de abrir con Git Bash y posteriormente se referencia el nombre del documento donde esta el code para ejecutarlo.
    
 ![Git Blash inicio](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/bcbfacda-20e7-4f9c-930d-a79658c6d861)
 ![Git bash evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/c709a907-f9c2-4757-8ef3-3c09f7a6357e)
