@@ -15,13 +15,13 @@ a continuacion se puede evidenciar procedimiento de desarrollo del reto:
 
 2. luego de guardar el code, se abre en las distintas herramientas para su visualizacion
 
-   2.1. Git bash: 
+3. Git bash: 
 ![Git bash evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/cfd0c834-4b49-4197-aed8-02668ccd5cd3)
 
-   2.2  VS code:
+4.  VS code:
 ![VS CODE evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/583f3195-80eb-46a4-b8ee-6f63d931ad40)
 
-   2.3  Interprete de Python:
+5.  Interprete de Python:
 ![Python evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/5e8da52c-82d5-47c8-9f19-c95e866005f6)
 
    
