@@ -20,12 +20,12 @@ a continuacion se puede evidenciar procedimiento de desarrollo del reto:
 ![Git Blash inicio](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/bcbfacda-20e7-4f9c-930d-a79658c6d861)
 ![Git bash evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/c709a907-f9c2-4757-8ef3-3c09f7a6357e)
 
-   2.2 VS code: para visualizar como se vera el codigo, se debe abrir primero VS code, despues seleccionar "archivo" y buscar el code, luego de abrir el code se procede a selecionar "ejecutar archivo de python" lo cual nos permite visualizar como se vera el code.
+   2.2 VS code: para visualizar como se vera el codigo, se debe abrir primero VS code, despues seleccionar "archivo" y buscar el code, luego de abrir el codigo se procede a selecionar "ejecutar archivo de python" lo cual nos permite visualizar como se vera el code.
 
 ![abrir documento VS code](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/eaa9b114-4a18-47a5-ba15-674368abc7bf)
 ![VS CODE evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/9f7b697a-15b8-4a5a-8dbf-b4e78ac32cfb)
 
-   2.3 Interprete de Python: primero se entra a la consola de windows y como primera instancia se referencia el uso del lenguje python, posteriormente se copia el codigo y se ejecuta
+   2.3 Interprete de Python: primero se entra a la consola de windows ( tecla windows + r y despues se coloca cmd) y como primera instancia se referencia el uso del lenguje python, posteriormente se copia el codigo y se ejecuta
    
 ![interprete de python](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/9e5160d8-3183-4a21-a6ad-d92665fdc1eb)
 ![Python evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/411a3311-bbbc-4a20-a747-c35526262200)
