@@ -15,16 +15,18 @@ a continuacion se puede evidenciar procedimiento de desarrollo del reto:
 
 2. luego de guardar el code, se abre en las distintas herramientas para su visualizacion
 
-3. Git bash:
-
-![Git bash evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/cfd0c834-4b49-4197-aed8-02668ccd5cd3)
-
-5.  VS code:
+   2.1 Git bash: para visualizar el codigo en Git, primero ubicamos el code guardado con anterioridad, despues de ubicarlo lo selecionamos con click derecho + shift y se selecciona la opcion de abrir con Git Bash y posteriormente se referencia el nombre del documento donde esta el code.
    
-![VS CODE evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/583f3195-80eb-46a4-b8ee-6f63d931ad40)
+![Git Blash inicio](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/bcbfacda-20e7-4f9c-930d-a79658c6d861)
+![Git bash evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/c709a907-f9c2-4757-8ef3-3c09f7a6357e)
 
-7.  Interprete de Python:
-   
-![Python evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/5e8da52c-82d5-47c8-9f19-c95e866005f6)
+   2.2 VS code: para visualizar como se vera el codigo, se debe abrir primero VS code, despues seleccionar "archivo" y buscar el code, luego de abrir el code se procede a selecionar "ejecutar archivo de python" lo cual nos permite visualizar como se vera el code.
 
+![abrir documento VS code](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/eaa9b114-4a18-47a5-ba15-674368abc7bf)
+![VS CODE evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/9f7b697a-15b8-4a5a-8dbf-b4e78ac32cfb)
+
+   2.3 Interprete de Python: primero se entra a la consola de windows y como primera instancia se referencia el uso del lenguje python, posteriormente se copia el codigo y se ejecuta
    
+![interprete de python](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/9e5160d8-3183-4a21-a6ad-d92665fdc1eb)
+![Python evidencia](https://github.com/AndresBustamant/reto-2-ACB/assets/141858005/411a3311-bbbc-4a20-a747-c35526262200)
+
